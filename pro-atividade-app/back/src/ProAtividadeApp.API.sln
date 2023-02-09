@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAtividadeApp.API", "ProAtividadeApp.API\ProAtividadeApp.API.csproj", "{C21EF633-CB70-4C6E-81CC-DAA6EA0E72B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C21EF633-CB70-4C6E-81CC-DAA6EA0E72B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21EF633-CB70-4C6E-81CC-DAA6EA0E72B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21EF633-CB70-4C6E-81CC-DAA6EA0E72B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21EF633-CB70-4C6E-81CC-DAA6EA0E72B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD89D87-4359-492E-B499-225D10243C15}
+	EndGlobalSection
+EndGlobal
